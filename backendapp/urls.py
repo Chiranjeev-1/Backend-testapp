@@ -6,3 +6,4 @@ urlpatterns = [
 
     path('',view=Index,name="Index")
 ]
+ 
